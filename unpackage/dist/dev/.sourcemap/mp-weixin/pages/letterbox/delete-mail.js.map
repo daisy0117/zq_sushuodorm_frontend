@@ -1,0 +1,1 @@
+{"version":3,"file":"delete-mail.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbGV0dGVyYm94L2RlbGV0ZS1tYWlsLnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'D:/uniapp项目/宿说1/宿说/pages/letterbox/delete-mail.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

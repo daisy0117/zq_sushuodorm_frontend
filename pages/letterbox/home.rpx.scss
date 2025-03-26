@@ -1,0 +1,244 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750rpx;
+  height: 1625.5813953488373rpx;
+  overflow: hidden;
+  .section_7 {
+    position: relative;
+    width: 750rpx;
+    height: 537.2093023255813rpx;
+    margin-top: 163.95348837209303rpx;
+    .group_5 {
+      width: 448.25581395348837rpx;
+      height: 136.04651162790697rpx;
+      margin: 78.48837209302326rpx 0 0 12.209302325581396rpx;
+      .group_1 {
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 50%;
+        width: 136.04651162790697rpx;
+        height: 136.04651162790697rpx;
+      }
+      .text_1 {
+        width: 279.06976744186045rpx;
+        height: 45.348837209302324rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 1);
+        font-size: 38.372093023255815rpx;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: left;
+        white-space: nowrap;
+        line-height: 38.372093023255815rpx;
+        margin-top: 24.41860465116279rpx;
+      }
+    }
+    .group_6 {
+      width: 446.51162790697674rpx;
+      height: 136.04651162790697rpx;
+      margin: 19.186046511627907rpx 0 167.4418604651163rpx 12.209302325581396rpx;
+      .section_3 {
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 50%;
+        width: 136.04651162790697rpx;
+        height: 136.04651162790697rpx;
+      }
+      .text_2 {
+        width: 279.06976744186045rpx;
+        height: 45.348837209302324rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 1);
+        font-size: 38.372093023255815rpx;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: left;
+        white-space: nowrap;
+        line-height: 38.372093023255815rpx;
+        margin-top: 31.3953488372093rpx;
+      }
+    }
+    .section_4 {
+      background-color: rgba(217, 217, 217, 0);
+      height: 155.2325581395349rpx;
+      width: 750rpx;
+      position: absolute;
+      left: 0;
+      top: 69.76744186046511rpx;
+      .block_6 {
+        width: 20.930232558139537rpx;
+        height: 20.930232558139537rpx;
+        margin: 22.674418604651162rpx 0 0 118.6046511627907rpx;
+        .group_2 {
+          background-color: rgba(255, 0, 0, 1);
+          border-radius: 50%;
+          width: 20.930232558139537rpx;
+          height: 20.930232558139537rpx;
+        }
+      }
+      .text-wrapper_3 {
+        width: 179.65116279069767rpx;
+        height: 36.627906976744185rpx;
+        margin: 54.06976744186046rpx 0 20.930232558139537rpx
+          181.3953488372093rpx;
+        .text_3 {
+          width: 179.65116279069767rpx;
+          height: 36.627906976744185rpx;
+          overflow-wrap: break-word;
+          color: rgba(0, 0, 0, 0.49);
+          font-size: 27.906976744186046rpx;
+          font-family: Inter-Light;
+          font-weight: 300;
+          text-align: left;
+          white-space: nowrap;
+          line-height: 27.906976744186046rpx;
+        }
+      }
+    }
+    .text-wrapper_2 {
+      background-color: rgba(217, 217, 217, 0);
+      height: 155.2325581395349rpx;
+      width: 750rpx;
+      position: absolute;
+      left: 0;
+      top: 225rpx;
+      .text_4 {
+        width: 179.65116279069767rpx;
+        height: 36.627906976744185rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 0.49);
+        font-size: 27.906976744186046rpx;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: left;
+        white-space: nowrap;
+        line-height: 27.906976744186046rpx;
+        margin: 95.93023255813954rpx 0 0 179.65116279069767rpx;
+      }
+    }
+  }
+  .image_1 {
+    width: 746.5116279069767rpx;
+    height: 746.5116279069767rpx;
+    margin: -1.744186046511628rpx 0 0 3.488372093023256rpx;
+  }
+  .box_3 {
+    background-color: rgba(212, 239, 243, 1);
+    position: relative;
+    width: 750rpx;
+    height: 148.25581395348837rpx;
+    margin-top: 31.3953488372093rpx;
+	// 这是下面的导航栏
+    .block_2 {
+      width: 100.97674418604652rpx;
+      height: 107.55813953488372rpx;
+	  margin:38.372093023255815rpx 0 0 100rpx;
+	  // background-color: #f7f7f7;
+	  text-align: center;
+    }
+    .highlight {
+      width: 80.23255813953489rpx;
+      height: 25rpx;
+	  margin-left: 15rpx;
+    }
+	.email{
+		width:80rpx;
+		height:100rpx;
+		display: block;
+	}
+	.xinxiang{
+		width: 90rpx;
+		text-align:center;
+		font-weight: 600;
+		color: #928220;
+		opacity: 88%;
+	}
+    .block_1 {
+      width: 80.51162790697674rpx;
+      height: 107.55813953488372rpx;
+      margin: 38.372093023255815rpx 0 0 110.32558139534883rpx;
+	  text-align: center;
+	  // background-color: #928220;
+    }
+	.hearts{
+		width:70rpx;
+		height:64rpx;
+		display: block;
+		margin-left: 15rpx;
+	}
+	.subangbang{
+		width: 120rpx;
+		text-align:center;
+		font-weight: 600;
+		color: #928220;
+		opacity: 88%;
+	}
+    // .label_1 {
+    //   width: 60.51162790697674rpx;
+    //   height: 32.30232558139535rpx;
+    //   margin: 38.372093023255815rpx 118.6046511627907rpx 0 190.74418604651163rpx;
+    // }
+	.quan{
+		// background-color: #928220;
+        width: 90.51162790697674rpx;
+        height: 107.30232558139535rpx;
+        margin: 38.372093023255815rpx 118.6046511627907rpx 0 140.74418604651163rpx;
+	}
+	.planet{
+		width:70rpx;
+		height: 90rpx;
+		margin-left: 15rpx;
+	}
+	.sushequan{
+		width: 120rpx;
+		text-align:center;
+		font-weight: 600;
+		color: #928220;
+		opacity: 88%;
+	}
+  }
+  .box_4 {
+    background-color: rgba(243, 234, 184, 1);
+    height: 163.95348837209303rpx;
+    width: 750rpx;
+    position: absolute;
+    left: 0;
+    top: 0;
+    .box_5 {
+      width: 711.6279069767442rpx;
+      height: 34.883720930232556rpx;
+      margin: 13.953488372093023rpx 0 0 19.186046511627907rpx;
+    }
+    .box_6 {
+      width: 715.1162790697674rpx;
+      height: 104.65116279069767rpx;
+      margin: 6.976744186046512rpx 0 3.488372093023256rpx 12.209302325581396rpx;
+      .section_5 {
+        background-color: rgba(255, 255, 255, 1);
+        border-radius: 50%;
+        width: 104.65116279069767rpx;
+        height: 104.65116279069767rpx;
+      }
+      .text_6 {
+        width: 115.11627906976744rpx;
+        height: 55.81395348837209rpx;
+        overflow-wrap: break-word;
+        color: rgba(141, 105, 20, 1);
+        font-size: 55.81395348837209rpx;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: left;
+        white-space: nowrap;
+        line-height: 55.81395348837209rpx;
+        margin: 13.953488372093023rpx 0 0 24.41860465116279rpx;
+      }
+    }
+    .block_5 {
+      background-color: rgba(217, 217, 217, 0);
+      position: absolute;
+      left: -22.674418604651162rpx;
+      top: 54.06976744186046rpx;
+      width: 326.16279069767444rpx;
+      height: 118.6046511627907rpx;
+    }
+  }
+}

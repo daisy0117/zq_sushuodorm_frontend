@@ -1,0 +1,95 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/log/log1",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/log/log2",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/log/log3",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/log/personalhome",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/log/information",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/home",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/mail",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/inform",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/inform-baowei",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/writting-letter",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/receiver",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/check-bao",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/check-mail",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		},
+		{
+			"path": "pages/letterbox/delete-mail",
+			"style": {
+				"navigationBarTitleText": "宿说"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/log/log1",
+    "pages/log/log2",
+    "pages/log/log3",
+    "pages/log/personalhome",
+    "pages/log/information",
+    "pages/letterbox/home",
+    "pages/letterbox/mail",
+    "pages/letterbox/inform",
+    "pages/letterbox/inform-baowei",
+    "pages/letterbox/writting-letter",
+    "pages/letterbox/receiver",
+    "pages/letterbox/check-bao",
+    "pages/letterbox/check-mail",
+    "pages/letterbox/delete-mail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

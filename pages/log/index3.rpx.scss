@@ -1,0 +1,109 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750rpx;
+  height: 1625.5813953488373rpx;
+  overflow: hidden;
+  .group_1 {
+    background-color: rgba(255, 255, 255, 1);
+    height: 1625.5813953488373rpx;
+    width: 750rpx;
+    .group_2 {
+      background-color: rgba(212, 239, 243, 1);
+      height: 1625.5813953488373rpx;
+      width: 750rpx;
+      position: relative;
+      .group_3 {
+        width: 750rpx;
+        height: 842.4418604651163rpx;
+        .group_4 {
+          width: 134.30232558139534rpx;
+          height: 20.930232558139537rpx;
+          margin: 33.13953488372093rpx 0 0 591.2790697674419rpx;
+        }
+        .group_5 {
+          width: 708.1395348837209rpx;
+          height: 73.25581395348837rpx;
+          margin: 24.41860465116279rpx 0 0 31.3953488372093rpx;
+        }
+        .group_6 {
+          width: 441.27906976744185rpx;
+          height: 441.27906976744185rpx;
+          margin: 160.46511627906978rpx 0 88.95348837209302rpx
+            155.2325581395349rpx;
+          .text-wrapper_1 {
+            height: 441.27906976744185rpx;
+            background: url(../../static/白圈.png)
+              100% no-repeat;
+            background-size: 100% 100%;
+            width: 441.27906976744185rpx;
+            .text_1 {
+              width: 205.8139534883721rpx;
+              height: 116.86046511627907rpx;
+              overflow-wrap: break-word;
+              color: rgba(10, 129, 172, 1);
+              font-size: 102.90697674418605rpx;
+              font-family: WeChat Sans Std-Regular;
+              font-weight: normal;
+              text-align: left;
+              white-space: nowrap;
+              line-height: 116.86046511627907rpx;
+              margin: 163.95348837209303rpx 0 0 116.86046511627907rpx;
+            }
+          }
+        }
+      }
+      .group_7 {
+        position: absolute;
+        left: 0;
+        top: 840.6976744186046rpx;
+        width: 793.6046511627907rpx;
+        height: 784.8837209302326rpx;
+        background: url(../../static/background.png)
+          100% no-repeat;
+        background-size: 100% 100%;
+        .text_2 {
+          width: 455.2325581395349rpx;
+          height: 40.116279069767444rpx;
+          overflow-wrap: break-word;
+          color: rgba(10, 129, 173, 1);
+          font-size: 34.883720930232556rpx;
+          letter-spacing: -0.4000000059604645px;
+          font-family: WeChat Sans Std-Regular;
+          font-weight: normal;
+          text-align: center;
+          white-space: nowrap;
+          line-height: 40.116279069767444rpx;
+          margin: 5.232558139534884rpx 0 0 212.7906976744186rpx;
+        }
+        .block_3 {
+          background-color: rgba(10, 129, 173, 1);
+          border-radius: 40px;
+          width: 544.1860465116279rpx;
+          height: 137.7906976744186rpx;
+          border: 1px solid rgba(112, 112, 112, 1);
+          margin: 106.3953488372093rpx 0 495.3488372093023rpx
+            102.90697674418605rpx;
+			// position: absolute;
+        }
+		.text_3{
+			font-family: WeChat Sans Std-Regular;
+			color: #fff;
+			width: 307rpx;
+			font-size: 38rpx;
+			// position: relative;
+			margin: 40rpx 0 0 150rpx;
+			
+			
+		}
+        .image_3 {
+          position: absolute;
+          left: 90.69767441860465rpx;
+          top: -17.441860465116278rpx;
+          width: 94.18604651162791rpx;
+          height: 94.18604651162791rpx;
+        }
+      }
+    }
+  }
+}

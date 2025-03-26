@@ -1,0 +1,1 @@
+{"version":3,"file":"check-bao.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbGV0dGVyYm94L2NoZWNrLWJhby52dWU"],"sourcesContent":["import MiniProgramPage from 'D:/uniapp项目/宿说1/宿说/pages/letterbox/check-bao.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

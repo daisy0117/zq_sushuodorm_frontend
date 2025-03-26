@@ -1,0 +1,412 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+body,
+page view {
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+body {
+  font-family: PingFangSC-Regular, Roboto, Helvetica Neue, Helvetica, Tahoma, Arial, PingFang SC-Light, Microsoft YaHei;
+  margin: 0;
+}
+button {
+  margin: 0;
+  padding: 0;
+  border: 1px solid transparent;
+  outline: none;
+  background-color: transparent;
+}
+button:active {
+  opacity: 0.6;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.justify-start {
+  display: flex;
+  justify-content: flex-start;
+}
+.justify-center {
+  display: flex;
+  justify-content: center;
+}
+.justify-end {
+  display: flex;
+  justify-content: flex-end;
+}
+.justify-evenly {
+  display: flex;
+  justify-content: space-evenly;
+}
+.justify-around {
+  display: flex;
+  justify-content: space-around;
+}
+.justify-between {
+  display: flex;
+  justify-content: space-between;
+}
+.align-start {
+  display: flex;
+  align-items: flex-start;
+}
+.align-center {
+  display: flex;
+  align-items: center;
+}
+.align-end {
+  display: flex;
+  align-items: flex-end;
+}
+.page {
+  background-color: white;
+  position: relative;
+  width: 750rpx;
+  height: 1625.5813953488rpx;
+  overflow: hidden;
+}
+.page .group_1 {
+  background-color: white;
+  height: 1625.5813953488rpx;
+  width: 750rpx;
+}
+.page .group_1 .group_2 {
+  background-color: #d4eff3;
+  width: 750rpx;
+  height: 1625.5813953488rpx;
+}
+.page .group_1 .group_2 .box_18 {
+  width: 750rpx;
+  height: 184.8837209302rpx;
+  justify-content: flex-center;
+}
+.page .group_1 .group_2 .box_18 .section_14 {
+  width: 134.3023255814rpx;
+  height: 20.9302325581rpx;
+  margin: 33.1395348837rpx 0 0 591.2790697674rpx;
+}
+.page .group_1 .group_2 .box_18 .section_15 {
+  width: 708.1395348837rpx;
+  height: 73.2558139535rpx;
+  margin: 24.4186046512rpx 0 33.1395348837rpx 31.3953488372rpx;
+}
+.page .group_1 .group_2 .block_2 {
+  background-color: rgba(82, 117, 214, 0.13);
+  border-radius: 26px;
+  height: 1355.2325581395rpx;
+  width: 697.6744186047rpx;
+  position: relative;
+  margin: -1.7441860465rpx 0 0 31.3953488372rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 {
+  background-color: white;
+  border-radius: 32px;
+  position: relative;
+  width: 624.4186046512rpx;
+  height: 1294.1860465116rpx;
+  margin: 24.4186046512rpx 0 0 31.3953488372rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 {
+  background-color: rgba(195, 223, 240, 0.18);
+  border-radius: 31px;
+  position: relative;
+  width: 624.4186046512rpx;
+  height: 523.2558139535rpx;
+  margin-top: -1.7441860465rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .label_7 {
+  width: 85.4651162791rpx;
+  height: 85.4651162791rpx;
+  margin: 69.7674418605rpx 0 0 270.3488372093rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .text-group_1 {
+  width: 156.976744186rpx;
+  height: 59.3023255814rpx;
+  overflow-wrap: break-word;
+  color: #0a81ac;
+  font-size: 52.3255813953rpx;
+  font-family: WeChat Sans Std-Regular;
+  font-weight: normal;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 59.3023255814rpx;
+  margin: 88.9534883721rpx 0 0 233.7209302326rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .group_7 {
+  background-color: rgba(235, 211, 154, 0.57);
+  border-radius: 47px;
+  position: relative;
+  width: 460.4651162791rpx;
+  height: 162.2093023256rpx;
+  margin: 24.4186046512rpx 0 33.1395348837rpx 87.2093023256rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .group_7 .text_1 {
+  width: 200.5813953488rpx;
+  height: 48.8372093023rpx;
+  overflow-wrap: break-word;
+  color: #574211;
+  font-size: 43.6046511628rpx;
+  font-family: WeChat Sans Std-Regular;
+  font-weight: normal;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 48.8372093023rpx;
+  margin: 27.9069767442rpx 0 0 146.511627907rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .group_7 .image_3 {
+  width: 156.976744186rpx;
+  height: 64.5348837209rpx;
+  margin: 5.2325581395rpx 0 15.6976744186rpx 146.511627907rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .group_7 .text_2 {
+  position: absolute;
+  left: 177.9069767442rpx;
+  top: 78.488372093rpx;
+  width: 88.9534883721rpx;
+  height: 71.511627907rpx;
+  overflow-wrap: break-word;
+  color: #574211;
+  font-size: 62.7906976744rpx;
+  font-family: WeChat Sans Std-Regular;
+  font-weight: normal;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 71.511627907rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_5 .group_6 {
+  background-color: rgba(10, 129, 173, 0.37);
+  border-radius: 1000px;
+  position: absolute;
+  left: 219.7674418605rpx;
+  top: 29.6511627907rpx;
+  width: 186.6279069767rpx;
+  height: 186.6279069767rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_8 {
+  background-color: rgba(23, 121, 180, 0.18);
+  border-radius: 33px;
+  width: 491.8604651163rpx;
+  height: 115.1162790698rpx;
+  margin: 26.1627906977rpx 0 0 24.4186046512rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_8 .box_7 {
+  height: 94.1860465116rpx;
+  background: url(https://lanhu-oss.lanhuapp.com/FigmaDDSSlicePNGad04c8af407ecda1007707633a164801.png) 100% no-repeat;
+  background-size: 100% 100%;
+  width: 94.1860465116rpx;
+  margin: 10.4651162791rpx 0 0 10.4651162791rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_8 .box_7 .label_4 {
+  width: 64.5348837209rpx;
+  height: 64.5348837209rpx;
+  margin: 15.6976744186rpx 0 0 15.6976744186rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_8 .group_26 {
+  width: 343.6046511628rpx;
+  height: 62.7906976744rpx;
+  margin: 31.3953488372rpx 40.1162790698rpx 0 3.488372093rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_8 .group_26 .text_7 {
+  width: 193.6046511628rpx;
+  height: 40.1162790698rpx;
+  overflow-wrap: break-word;
+  color: #0a81ae;
+  font-size: 43.6046511628rpx;
+  font-family: Inter-Regular;
+  font-weight: normal;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 45.3488372093rpx;
+  margin-left: 40.1162790698rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_8 .group_26 .image_5 {
+  width: 343.6046511628rpx;
+  height: 5.2325581395rpx;
+  margin-top: 17.4418604651rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_16 {
+  width: 94.1860465116rpx;
+  height: 94.1860465116rpx;
+  margin: 38.3720930233rpx 0 0 495.3488372093rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .image-wrapper_4 {
+  height: 94.1860465116rpx;
+  background: url(https://lanhu-oss.lanhuapp.com/FigmaDDSSlicePNGad04c8af407ecda1007707633a164801.png) 100% no-repeat;
+  background-size: 100% 100%;
+  width: 94.1860465116rpx;
+  margin: 48.8372093023rpx 0 0 33.1395348837rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .image-wrapper_4 .label_2 {
+  width: 76.7441860465rpx;
+  height: 55.8139534884rpx;
+  margin: 19.1860465116rpx 0 0 10.4651162791rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .image-wrapper_3 {
+  height: 94.1860465116rpx;
+  background: url(https://lanhu-oss.lanhuapp.com/FigmaDDSSlicePNGad04c8af407ecda1007707633a164801.png) 100% no-repeat;
+  background-size: 100% 100%;
+  width: 94.1860465116rpx;
+  margin: 48.8372093023rpx 0 0 495.3488372093rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .image-wrapper_3 .label_3 {
+  width: 59.3023255814rpx;
+  height: 59.3023255814rpx;
+  margin: 19.1860465116rpx 0 0 19.1860465116rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .text-wrapper_1 {
+  background-color: #3f82b9;
+  border-radius: 37px;
+  height: 71.511627907rpx;
+  width: 242.4418604651rpx;
+  margin: 38.3720930233rpx 0 102.9069767442rpx 200.5813953488rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .text-wrapper_1 .text_3 {
+  width: 167.4418604651rpx;
+  height: 54.0697674419rpx;
+  overflow-wrap: break-word;
+  color: white;
+  font-size: 41.8604651163rpx;
+  font-family: WeChat Sans Std-Regular;
+  font-weight: normal;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 54.0697674419rpx;
+  margin: 12.2093023256rpx 0 0 27.9069767442rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_12 {
+  background-color: rgba(23, 121, 180, 0.18);
+  border-radius: 33px;
+  position: absolute;
+  left: 102.9069767442rpx;
+  top: 976.7441860465rpx;
+  width: 491.8604651163rpx;
+  height: 115.1162790698rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_12 .text_4 {
+  width: 90.6976744186rpx;
+  height: 45.3488372093rpx;
+  overflow-wrap: break-word;
+  color: #0a81ae;
+  font-size: 43.6046511628rpx;
+  font-family: Inter-Regular;
+  font-weight: normal;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 45.3488372093rpx;
+  margin: 29.6511627907rpx 0 0 167.4418604651rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_12 .image_7 {
+  width: 343.6046511628rpx;
+  height: 5.2325581395rpx;
+  margin: 8.7209302326rpx 0 26.1627906977rpx 50.5813953488rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_13 {
+  background-color: rgba(23, 121, 180, 0.18);
+  border-radius: 33px;
+  position: absolute;
+  left: 24.4186046512rpx;
+  top: 833.7209302326rpx;
+  width: 491.8604651163rpx;
+  height: 115.1162790698rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_13 .text_5 {
+  width: 184.8837209302rpx;
+  height: 41.8604651163rpx;
+  overflow-wrap: break-word;
+  color: #0a81ae;
+  font-size: 43.6046511628rpx;
+  font-family: Inter-Regular;
+  font-weight: normal;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 45.3488372093rpx;
+  margin: 29.6511627907rpx 0 0 150rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_13 .image_8 {
+  width: 343.6046511628rpx;
+  height: 5.2325581395rpx;
+  margin: 13.9534883721rpx 0 24.4186046512rpx 111.6279069767rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_14 {
+  background-color: rgba(23, 121, 180, 0.18);
+  border-radius: 33px;
+  position: absolute;
+  left: 102.9069767442rpx;
+  top: 690.6976744186rpx;
+  width: 491.8604651163rpx;
+  height: 115.1162790698rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_14 .group_27 {
+  width: 343.6046511628rpx;
+  height: 61.0465116279rpx;
+  margin: 27.9069767442rpx 0 0 45.3488372093rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_14 .group_27 .text_6 {
+  width: 181.3953488372rpx;
+  height: 47.0930232558rpx;
+  overflow-wrap: break-word;
+  color: #0a81ae;
+  font-size: 43.6046511628rpx;
+  font-family: Inter-Regular;
+  font-weight: normal;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 47.0930232558rpx;
+  margin-left: 81.976744186rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_14 .group_27 .image_6 {
+  width: 343.6046511628rpx;
+  height: 5.2325581395rpx;
+  margin-top: 8.7209302326rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .group_14 .label_6 {
+  width: 52.3255813953rpx;
+  height: 54.0697674419rpx;
+  margin: 31.3953488372rpx 22.6744186047rpx 0 27.9069767442rpx;
+}
+.page .group_1 .group_2 .block_2 .box_3 .image_4 {
+  position: absolute;
+  left: -31.3953488372rpx;
+  top: 1179.0697674419rpx;
+  width: 697.6744186047rpx;
+  height: 151.7441860465rpx;
+}
+.page .group_1 .group_2 .box_19 {
+  width: 750rpx;
+  height: 88.9534883721rpx;
+  margin-bottom: 1.7441860465rpx;
+}
+.page .group_1 .group_2 .box_19 .section_3 {
+  background-color: #d4eff3;
+  width: 83.7209302326rpx;
+  height: 8.7209302326rpx;
+  margin-left: 155.2325581395rpx;
+}

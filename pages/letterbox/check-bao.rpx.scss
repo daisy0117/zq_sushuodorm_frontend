@@ -1,0 +1,147 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750rpx;
+  height: 1625.5813953488373rpx;
+  overflow: hidden;
+  .group_1 {
+    background-color: rgba(243, 234, 184, 1);
+    height: 163.95348837209303rpx;
+    width: 750rpx;
+    .group_2 {
+      width: 711.6279069767442rpx;
+      height: 34.883720930232556rpx;
+      margin: 13.953488372093023rpx 0 0 19.186046511627907rpx;
+    }
+    .group_5 {
+      width: 723.8372093023256rpx;
+      height: 76.74418604651163rpx;
+      margin: 22.674418604651162rpx 0 15.69767441860465rpx 8.720930232558139rpx;
+      .label_1 {
+        width: 76.74418604651163rpx;
+        height: 76.74418604651163rpx;
+      }
+      .text_2 {
+        width: 198.8372093023256rpx;
+        height: 50.58139534883721rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 1);
+        font-size: 55.81395348837209rpx;
+        letter-spacing: -0.40799999237060547px;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: center;
+        white-space: nowrap;
+        line-height: 38.372093023255815rpx;
+        margin: 13.953488372093023rpx 0 0 190.11627906976744rpx;
+      }
+    }
+  }
+  .group_7 {
+    width: 750rpx;
+    height: 1294.1860465116279rpx;
+    .box_1 {
+      width: 263.3720930232558rpx;
+      height: 50.58139534883721rpx;
+      margin: 48.83720930232558rpx 0 0 33.13953488372093rpx;
+      .text-wrapper_1 {
+        background-color: rgba(255, 161, 161, 1);
+        height: 31.3953488372093rpx;
+        margin-top: 10.465116279069768rpx;
+        width: 80.23255813953489rpx;
+        .text_3 {
+          width: 55.81395348837209rpx;
+          height: 33.13953488372093rpx;
+          overflow-wrap: break-word;
+          color: rgba(168, 0, 0, 1);
+          font-size: 27.906976744186046rpx;
+          font-family: Inter-Regular;
+          font-weight: normal;
+          text-align: left;
+          white-space: nowrap;
+          line-height: 27.906976744186046rpx;
+          margin-left: 12.209302325581396rpx;
+        }
+      }
+      .text_4 {
+        width: 125.5813953488372rpx;
+        height: 50.58139534883721rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 1);
+        font-size: 41.86046511627907rpx;
+        font-family: Inter-Regular;
+        font-weight: normal;
+        text-align: left;
+        white-space: nowrap;
+        line-height: 41.86046511627907rpx;
+      }
+    }
+    .text-wrapper_2 {
+      width: 394.1860465116279rpx;
+      height: 24.41860465116279rpx;
+      margin: 19.186046511627907rpx 0 1151.1627906976744rpx -59.30232558139535rpx;
+      .text_5 {
+        width: 319.1860465116279rpx;
+        height: 19.186046511627907rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 22.674418604651162rpx;
+        letter-spacing: -0.40799999237060547px;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: center;
+        white-space: nowrap;
+        line-height: 38.372093023255815rpx;
+      }
+      .text_6 {
+        width: 137.7906976744186rpx;
+        height: 24.41860465116279rpx;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 22.674418604651162rpx;
+        letter-spacing: -0.40799999237060547px;
+        font-family: Inter-Light;
+        font-weight: 300;
+        text-align: center;
+        white-space: nowrap;
+        line-height: 38.372093023255815rpx;
+        margin-left: -62.7906976744186rpx;
+      }
+    }
+	.line{
+			  position: absolute;
+			  width: 680rpx;
+			  height: 8rpx;
+			  left: 36rpx;
+			  right: 36rpx;
+			  // border-radius: 100%;
+			  top: 360rpx;
+	}
+	.Line{
+		display: block;
+		width: 680rpx;
+		height: 7rpx;
+		left: 0rpx;
+		}
+  }
+  .text-wrapper_3 {
+    background-color: rgba(84, 187, 252, 1);
+    border-radius: 18px;
+    height: 169.1860465116279rpx;
+    width: 687.2093023255813rpx;
+    margin: -1.744186046511628rpx 0 0 31.3953488372093rpx;
+    .text_7 {
+      width: 366.27906976744185rpx;
+      height: 83.72093023255815rpx;
+      overflow-wrap: break-word;
+      color: rgba(255, 255, 255, 1);
+      font-size: 41.86046511627907rpx;
+      letter-spacing: -0.40799999237060547px;
+      font-family: Inter-Light;
+      font-weight: 300;
+      text-align: center;
+      line-height: 38.372093023255815rpx;
+      margin: 71.51162790697674rpx 0 0 160.46511627906978rpx;
+    }
+  }
+}

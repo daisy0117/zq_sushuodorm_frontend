@@ -1,0 +1,1 @@
+{"version":3,"file":"inform.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbGV0dGVyYm94L2luZm9ybS52dWU"],"sourcesContent":["import MiniProgramPage from 'D:/uniapp项目/宿说1/宿说/pages/letterbox/inform.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

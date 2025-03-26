@@ -1,0 +1,1 @@
+{"version":3,"file":"log1.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbG9nL2xvZzEudnVl"],"sourcesContent":["import MiniProgramPage from 'D:/uniapp项目/宿说1/宿说/pages/log/log1.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

@@ -1,0 +1,116 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750rpx;
+  height: 1625.5813953488373rpx;
+  overflow: hidden;
+  .group_1 {
+    background-color: rgba(255, 255, 255, 1);
+    height: 1625.5813953488373rpx;
+    width: 750rpx;
+    .group_2 {
+      background-color: rgba(212, 239, 243, 1);
+      height: 1625.5813953488373rpx;
+      width: 750rpx;
+      position: relative;
+      .block_1 {
+        width: 750rpx;
+        height: 842.4418604651163rpx;
+        .group_3 {
+          width: 134.30232558139534rpx;
+          height: 20.930232558139537rpx;
+          margin: 33.13953488372093rpx 0 0 591.2790697674419rpx;
+          // .box_1 {
+          //   background-color: rgba(10, 129, 173, 1);
+          //   width: 29.651162790697676rpx;
+          //   height: 19.186046511627907rpx;
+          // }
+          // .box_2 {
+          //   background-color: rgba(10, 129, 173, 1);
+          //   width: 27.906976744186046rpx;
+          //   height: 20.930232558139537rpx;
+          //   margin-left: 26.162790697674417rpx;
+          // }
+          // .image_1 {
+          //   width: 43.604651162790695rpx;
+          //   height: 20.930232558139537rpx;
+          //   margin-left: 6.976744186046512rpx;
+          // }
+        }
+        // .image-wrapper_1 {
+        //   background-color: rgba(10, 129, 173, 1);
+        //   border-radius: 25px;
+        //   width: 151.74418604651163rpx;
+        //   height: 55.81395348837209rpx;
+        //   border: 0.5px solid rgba(151, 151, 151, 0.2);
+        //   margin: 34.883720930232556rpx 0 0 587.7906976744187rpx;
+          // .image_2 {
+          //   width: 54.06976744186046rpx;
+          //   height: 33.13953488372093rpx;
+          //   margin: 12.209302325581396rpx 0 0 24.41860465116279rpx;
+          // }
+          // .thumbnail_1 {
+          //   width: 29.651162790697676rpx;
+          //   height: 29.651162790697676rpx;
+          //   margin: 13.953488372093023rpx 22.674418604651162rpx 0
+          //     20.930232558139537rpx;
+          // }
+        // }
+        .text-wrapper_1 {
+          height: 441.27906976744185rpx;
+          background: url(../../static/白圈.png)
+            100% no-repeat;
+          background-size: 100% 100%;
+          width: 441.27906976744185rpx;
+          margin: 167.4418604651163rpx 0 88.95348837209302rpx
+            155.2325581395349rpx;
+          .text_1 {
+            width: 205.8139534883721rpx;
+            height: 116.86046511627907rpx;
+            overflow-wrap: break-word;
+            color: rgba(10, 129, 172, 1);
+            font-size: 102.90697674418605rpx;
+            font-family: WeChat Sans Std-Regular;
+            font-weight: normal;
+            text-align: left;
+            white-space: nowrap;
+            line-height: 116.86046511627907rpx;
+            margin: 163.95348837209303rpx 0 0 116.86046511627907rpx;
+          }
+        }
+      }
+      .block_2 {
+        height: 784.8837209302326rpx;
+        background: url(../../static/background.png)
+          100% no-repeat;
+		// background-color: rgba(255, 255, 255, 1);
+        background-size: 100% 100%;
+        width: 793.6046511627907rpx;
+        position: absolute;
+        left: 0;
+        top: 840rpx;
+        .text-wrapper_2 {
+          background-color: rgba(255, 255, 255, 0.54);
+          height: 85rpx;
+          border: 3px solid rgba(10, 129, 173, 0.5400000214576721);
+          width: 530.2325581395348rpx;
+          margin: -27.906976744186046rpx 0 0 132.5581395348837rpx;
+          .text_2 {
+            width: 486.627rpx;
+            height: 59rpx;
+            -webkit-text-stroke: 1px rgba(10, 129, 173, 1);
+            overflow-wrap: break-word;
+            color: rgba(10, 129, 172, 1);
+            font-size: 52.325581395348834rpx;
+            font-family: WeChat Sans Std-Regular;
+            font-weight: normal;
+            text-align: left;
+            white-space: nowrap;
+            line-height: 59.30232558139535rpx;
+            margin: 5rpx 0 0 17.441860465116278rpx;
+          }
+        }
+      }
+    }
+  }
+}

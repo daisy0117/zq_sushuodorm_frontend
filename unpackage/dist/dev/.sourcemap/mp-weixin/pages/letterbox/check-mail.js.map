@@ -1,0 +1,1 @@
+{"version":3,"file":"check-mail.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbGV0dGVyYm94L2NoZWNrLW1haWwudnVl"],"sourcesContent":["import MiniProgramPage from 'D:/uniapp项目/宿说1/宿说/pages/letterbox/check-mail.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

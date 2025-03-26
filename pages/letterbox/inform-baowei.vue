@@ -1,0 +1,67 @@
+<template>
+  <view class="page flex-col">
+    <view class="box_1 flex-row">
+      <image
+        class="label_1"
+        referrerpolicy="no-referrer"
+        src="https://lanhu-oss-2537-2.lanhuapp.com/FigmaDDSSlicePNG080f5a9cc1c5e02ec0c1370058cf2d5c.png"
+      />
+      <text class="text_1">保卫处</text>
+    </view>
+    <view class="box_2 flex-row">
+		<navigator url="/pages/letterbox/check-bao">
+		  <view class="block_1 flex-col">
+			<view class="section_1 flex-row justify-between">
+			  <view class="text-wrapper_1 flex-col">
+				<text class="text_2">置顶</text>
+			  </view>
+			  <text class="text_3">主标题</text>
+			</view>
+			<view class="text-wrapper_2 flex-row justify-between">
+			  <text class="text_4">00：00</text>
+			  <text class="text_5">已确认</text>
+			</view>
+		  </view>
+		</navigator>
+      <text class="text_6">2025年1月1日</text>
+    </view>
+    <view class="box_3 flex-row">
+      <view class="box_4 flex-col">
+        <view class="text-wrapper_3 flex-row">
+          <text class="text_7">主标题</text>
+        </view>
+        <view class="text-wrapper_4 flex-row justify-between">
+          <text class="text_8">00：00</text>
+          <text class="text_9">未确认</text>
+        </view>
+      </view>
+      <text class="text_10">2025年1月1日</text>
+    </view>
+    <view class="box_5 flex-col"></view>
+    <view class="box_6 flex-col">
+      <view class="box_7 flex-row"></view>
+      <view class="box_8 flex-row">
+        <image
+          class="label_2"
+          referrerpolicy="no-referrer"
+          src="https://lanhu-oss-2537-2.lanhuapp.com/FigmaDDSSlicePNG9c8c05cc3eece1dc34a1d2b007248a84.png"
+        />
+        <text class="text_12">通知</text>
+      </view>
+    </view>
+  </view>
+</template>
+<script>
+export default {
+  data() {
+    return {
+      constants: {},
+    };
+  },
+  methods: {},
+};
+</script>
+<style lang="scss">
+@import './inform-baowei.scss';
+@import './inform-baowei.rpx.scss';
+</style>
